@@ -1,0 +1,6 @@
+the recommended api structure
+ -config
+ -routes
+ -model
+ -services
+ 
